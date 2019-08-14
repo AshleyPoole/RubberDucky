@@ -1,0 +1,144 @@
+REM Locks Windows machine after typing out a Mr Robot message
+DELAY 500
+GUI r
+DELAY 200
+STRING notepad.exe
+ENTER
+DELAY 300  
+ENTER
+STRING Security is important! Please remember to lock your computer (Windows+L) when you step away from your desk.
+ENTER
+STRING Thank you.
+ENTER
+ENTER
+ENTER
+STRING  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ENTER
+STRING  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ENTER
+STRING  XX                                                                          XX
+ENTER
+STRING  XX   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMMMMMMMMMMMMMMMMssssssssssssssssssssssssssMMMMMMMMMMMMMMMMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMMMMMMMMMMMss'''                          '''ssMMMMMMMMMMMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMMMMMMMyy''                                    ''yyMMMMMMMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMMMyy''                                            ''yyMMMMMMMM   XX
+ENTER
+STRING  XX   MMMMMy''                                                    ''yMMMMM   XX
+ENTER
+STRING  XX   MMMy'                                                          'yMMM   XX
+ENTER
+STRING  XX   Mh'                                                              'hM   XX
+ENTER
+STRING  XX   -                                                                  -   XX
+ENTER
+STRING  XX                                                                          XX
+ENTER
+STRING  XX   ::                                                                ::   XX
+ENTER
+STRING  XX   MMhh.        ..hhhhhh..                      ..hhhhhh..        .hhMM   XX
+ENTER
+STRING  XX   MMMMMh   ..hhMMMMMMMMMMhh.                .hhMMMMMMMMMMhh..   hMMMMM   XX
+ENTER
+STRING  XX   ---MMM .hMMMMdd:::dMMMMMMMhh..        ..hhMMMMMMMd:::ddMMMMh. MMM---   XX
+ENTER
+STRING  XX   MMMMMM MMmm''      'mmMMMMMMMMyy.  .yyMMMMMMMMmm'      ''mmMM MMMMMM   XX
+ENTER
+STRING  XX   ---mMM ''             'mmMMMMMMMM  MMMMMMMMmm'             '' MMm---   XX
+ENTER
+STRING  XX   yyyym'    .              'mMMMMm'  'mMMMMm'              .    'myyyy   XX
+ENTER
+STRING  XX   mm''    .y'     ..yyyyy..  ''''      ''''  ..yyyyy..     'y.    ''mm   XX
+ENTER
+STRING  XX           MN    .sMMMMMMMMMss.   .    .   .ssMMMMMMMMMs.    NM           XX
+ENTER
+STRING  XX           N`    MMMMMMMMMMMMMN   M    M   NMMMMMMMMMMMMM    `N           XX
+ENTER
+STRING  XX            +  .sMNNNNNMMMMMN+   `N    N`   +NMMMMMNNNNNMs.  +            XX
+ENTER
+STRING  XX              o+++     ++++Mo    M      M    oM++++     +++o              XX
+ENTER
+STRING  XX                                oo      oo                                XX
+ENTER
+STRING  XX           oM                 oo          oo                 Mo           XX
+ENTER
+STRING  XX         oMMo                M              M                oMMo         XX
+ENTER
+STRING  XX       +MMMM                 s              s                 MMMM+       XX
+ENTER
+STRING  XX      +MMMMM+            +++NNNN+        +NNNN+++            +MMMMM+      XX
+ENTER
+STRING  XX     +MMMMMMM+       ++NNMMMMMMMMN+    +NMMMMMMMMNN++       +MMMMMMM+     XX
+ENTER
+STRING  XX     MMMMMMMMMNN+++NNMMMMMMMMMMMMMMNNNNMMMMMMMMMMMMMMNN+++NNMMMMMMMMM     XX
+ENTER
+STRING  XX     yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy     XX
+ENTER
+STRING  XX   m  yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy  m   XX
+ENTER
+STRING  XX   MMm yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy mMM   XX
+ENTER
+STRING  XX   MMMm .yyMMMMMMMMMMMMMMMM     MMMMMMMMMM     MMMMMMMMMMMMMMMMyy. mMMM   XX
+ENTER
+STRING  XX   MMMMd   ''''hhhhh       odddo          obbbo        hhhh''''   dMMMM   XX
+ENTER
+STRING  XX   MMMMMd             'hMMMMMMMMMMddddddMMMMMMMMMMh'             dMMMMM   XX
+ENTER
+STRING  XX   MMMMMMd              'hMMMMMMMMMMMMMMMMMMMMMMh'              dMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMM-               ''ddMMMMMMMMMMMMMMdd''               -MMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMMM                   '::dddddddd::'                   MMMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMMM-                                                  -MMMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMMMM                                                  MMMMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMMMMy                                                yMMMMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMMMMMy.                                            .yMMMMMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMMMMMMMy.                                        .yMMMMMMMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMMMMMMMMMy.                                    .yMMMMMMMMMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMMMMMMMMMMMs.                                .sMMMMMMMMMMMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMMMMMMMMMMMMMss.           ....           .ssMMMMMMMMMMMMMMMMMM   XX
+ENTER
+STRING  XX   MMMMMMMMMMMMMMMMMMMMNo         oNNNNo         oNMMMMMMMMMMMMMMMMMMMM   XX
+ENTER
+STRING  XX                                                                          XX
+ENTER
+STRING  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ENTER
+STRING  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ENTER
+STRING  
+ENTER
+STRING      .o88o.                               o8o                .
+ENTER
+STRING      888 `"                               `"'              .o8
+ENTER
+STRING     o888oo   .oooo.o  .ooooo.   .ooooo.  oooo   .ooooo.  .o888oo oooo    ooo
+ENTER
+STRING      888    d88(  "8 d88' `88b d88' `"Y8 `888  d88' `88b   888    `88.  .8'
+ENTER
+STRING      888    `"Y88b.  888   888 888        888  888ooo888   888     `88..8'
+ENTER
+STRING      888    o.  )88b 888   888 888   .o8  888  888    .o   888 .    `888'
+ENTER
+STRING     o888o   8""888P' `Y8bod8P' `Y8bod8P' o888o `Y8bod8P'   "888"      d8'
+ENTER
+STRING                                                                  .o...P'
+ENTER
+ENTER
+DELAY 100
+ALT SPACE
+STRING x
+DELAY 50
+GUI l
